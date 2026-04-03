@@ -18,7 +18,7 @@ public class PaymentsServiceImpl implements PaymentsService {
 
     @Autowired
     private APIContext apiContext;
-    private PaymentsRepository paymentsRepository;
+    //private PaymentsRepository paymentsRepository;
     private BookingRepository bookingRepository;
 
     @Override
