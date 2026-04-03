@@ -27,8 +27,8 @@ public class PaymentsController {
     @Autowired
     private PaymentsService paymentsService;
 
-    @Autowired
-    private PaymentsRepository paymentsRepository;
+   // @Autowired
+    //private PaymentsRepository paymentsRepository;
 
     @Autowired
     private BookingRepository bookingRepository;
